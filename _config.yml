@@ -1,24 +1,24 @@
-title: 林德熙
-description: Windows 10 App Developer
-author: lindexi
-post_author: 林德熙
+title: Kession
+description: Software Developer
+author: Kession
+post_author: Kession
 logo: /img/avatar.png
-github: https://github.com/lindexi
-about: Windows 10 App Developer
-mail: "lindexi_gd@outlook.com"
+github: https://github.com/xiaoxunnn
+about: Software Developer
+mail: "xiaoxunnn@hotmain.com"
 
 baseurl: ""
-url: "https://blog.lindexi.com"
+url: "https://xiaoxunnn.github.io"
 
 allowsearch: false
 
 analytics:
   google: UA-110214503-1
 disqus:
-  name: lindexi
+  name: Kession
 
 share:
-  twitter_username: lindexi_gd
+  twitter_username: xiaoxunnn
 
 
 enableTags: true
@@ -47,12 +47,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "林德熙"
+      author: "Kession"
       permalink: "/post/:title.html"
   - scope:
       path: "_articles"
       type: "articles"
     values:
       layout: "post"
-      author: "林德熙"
+      author: "Kession"
       permalink: "/article/:title.html"
