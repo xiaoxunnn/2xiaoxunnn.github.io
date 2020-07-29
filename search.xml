@@ -19,13 +19,23 @@
 ]]></content>
   </entry>
   <entry>
-    <title>page-demo</title>
-    <url>/page-demo/index-1.html</url>
+    <title>about</title>
+    <url>/about/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>page-demo</title>
-    <url>/page-demo/index.html</url>
-    <content><![CDATA[<h1 id="乱我心者"><a href="#乱我心者" class="headerlink" title="乱我心者"></a>乱我心者</h1>]]></content>
+    <title>categories</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>search</title>
+    <url>/search/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>tags</title>
+    <url>/tags/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
