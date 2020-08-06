@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>gooddreamll!</title>
-    <url>/2020/07/29/gooddreamll/</url>
-    <content><![CDATA[<p>good night…</p>
-]]></content>
-  </entry>
-  <entry>
     <title>宣州谢朓楼饯别校书叔云</title>
     <url>/2020/07/29/hello-world/</url>
     <content><![CDATA[<p>`<br>弃我去者，昨日之日不可留；</p>
@@ -19,13 +13,19 @@
 ]]></content>
   </entry>
   <entry>
-    <title>categories</title>
-    <url>/categories/index.html</url>
+    <title>gooddreamll!</title>
+    <url>/2020/07/29/gooddreamll/</url>
+    <content><![CDATA[<p>good night…</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>about</title>
+    <url>/about/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>search</title>
-    <url>/search/index.html</url>
+    <title>categories</title>
+    <url>/categories/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -34,8 +34,8 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>about</title>
-    <url>/about/index.html</url>
+    <title>search</title>
+    <url>/search/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
